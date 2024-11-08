@@ -1,0 +1,471 @@
+<!-- dmx encoding keyvalues2 1 format model 1 -->
+"DmElement"
+{
+	"id" "elementid" "431cb4e8-4e76-30b5-b796-52f7a73c8774"
+	"name" "string" "flex_coach_ref"
+	"combinationOperator" "DmeCombinationOperator"
+	{
+		"id" "elementid" "205ad554-b236-3091-a8cf-627671e4bcc1"
+		"name" "string" "combinationOperator"
+		"controls" "element_array" 
+		[
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "e5ff12f3-796f-3615-bbfa-14bbcda30ee7"
+				"name" "string" "f01"
+				"rawControlNames" "string_array" ["f01"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "d5a62439-dbeb-314f-9f20-06627d37e578"
+				"name" "string" "f02"
+				"rawControlNames" "string_array" ["f02"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "b7f0a435-647e-37db-a04e-780dfa21b115"
+				"name" "string" "f03"
+				"rawControlNames" "string_array" ["f03"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "f61bd588-4a83-3ce8-90b4-d2abff81cb1f"
+				"name" "string" "f04"
+				"rawControlNames" "string_array" ["f04"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "5f162713-ae79-30e4-9e2e-1a25a5c25b25"
+				"name" "string" "AU42"
+				"rawControlNames" "string_array" ["AU42"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "8346686c-91c0-3609-ab38-de178b4701e9"
+				"name" "string" "AU1"
+				"rawControlNames" "string_array" ["AU1"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "f67b8ba3-2cc8-3379-88e0-e96925cf712a"
+				"name" "string" "AU2"
+				"rawControlNames" "string_array" ["AU2"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "69e21950-a12a-3f38-a5fb-3f620c9f6c0c"
+				"name" "string" "AU4"
+				"rawControlNames" "string_array" ["AU4"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "8d9a07b6-7c35-38af-aa7c-4ea9e0186201"
+				"name" "string" "AU12"
+				"rawControlNames" "string_array" ["AU12"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "58900a54-d016-3522-8181-d53087571fc1"
+				"name" "string" "AU15"
+				"rawControlNames" "string_array" ["AU15"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "2ff3db6f-1d74-3337-a14b-4c44d406d1da"
+				"name" "string" "AU17"
+				"rawControlNames" "string_array" ["AU17"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "00888440-e4a7-309f-b636-747cb6f4cb57"
+				"name" "string" "AU10"
+				"rawControlNames" "string_array" ["AU10"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "c8255460-f45a-3617-88d7-b6460286a271"
+				"name" "string" "AU17D"
+				"rawControlNames" "string_array" ["AU17D"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "0c0aeeca-7528-3a54-a27a-7bf63c3cdb2c"
+				"name" "string" "AU16"
+				"rawControlNames" "string_array" ["AU16"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "b3165340-c3b6-32d8-abeb-ff7192fffd77"
+				"name" "string" "AU6"
+				"rawControlNames" "string_array" ["AU6"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-2.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "9710dad3-dcf2-33fa-aa7d-5b876330b287"
+				"name" "string" "AU9"
+				"rawControlNames" "string_array" ["AU9"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "ae51c57e-f064-3770-b719-3606f044f12a"
+				"name" "string" "AU25"
+				"rawControlNames" "string_array" ["AU25"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "35668172-39a7-3deb-b09c-a0eb65bb0829"
+				"name" "string" "AU22"
+				"rawControlNames" "string_array" ["AU22"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "0a52ea0b-a2cb-3596-b8f6-5cad66af3db3"
+				"name" "string" "AU20"
+				"rawControlNames" "string_array" ["AU20"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "bdda4954-2333-360f-ad57-4e62ca3fbcac"
+				"name" "string" "AU32"
+				"rawControlNames" "string_array" ["AU32"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "3f5f12ae-65c1-3734-bfaf-e1d3a4b21d8e"
+				"name" "string" "AU24"
+				"rawControlNames" "string_array" ["AU24"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "212ec944-b287-3fa8-b713-fa4d2e456a0e"
+				"name" "string" "AU18"
+				"rawControlNames" "string_array" ["AU18"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "811becb8-6561-3dad-ad8a-90616468ea76"
+				"name" "string" "AU38"
+				"rawControlNames" "string_array" ["AU38"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "bf4fdb9b-0530-3cda-869a-824213030b25"
+				"name" "string" "AU31"
+				"rawControlNames" "string_array" ["AU31"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "18812148-e301-39d7-a093-ea5d19789146"
+				"name" "string" "AU26"
+				"rawControlNames" "string_array" ["AU26"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "457ac482-14af-38c5-94b6-76eb6a5b671e"
+				"name" "string" "AU27"
+				"rawControlNames" "string_array" ["AU27"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "a00771e9-9c3c-3467-8d32-8fd2b06e7749"
+				"name" "string" "AU26Z"
+				"rawControlNames" "string_array" ["AU26Z"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "7a816fbd-312d-33b5-a069-6a87bc59bac4"
+				"name" "string" "AU27Z"
+				"rawControlNames" "string_array" ["AU27Z"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "1433d9b5-4172-379b-8aed-28c0f565981e"
+				"name" "string" "AD30L"
+				"rawControlNames" "string_array" ["AD30L"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "699fe496-151b-3a11-bd46-9c1ed8b33a9c"
+				"name" "string" "AD30R"
+				"rawControlNames" "string_array" ["AD30R"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "564cf8f4-6765-3e62-87a9-deb09e07d713"
+				"name" "string" "AU1AU2"
+				"rawControlNames" "string_array" ["AU1AU2"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "6ad4ea7b-15f3-3edb-9078-cce29e5b72d9"
+				"name" "string" "AU1AU4"
+				"rawControlNames" "string_array" ["AU1AU4"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "9c9f8c9f-1633-3703-80d3-f4bb7b585f1e"
+				"name" "string" "AU2AU4"
+				"rawControlNames" "string_array" ["AU2AU4"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "e66f21d0-a4cf-3ef8-b2b5-1fb6e6a8907a"
+				"name" "string" "AU12AU25"
+				"rawControlNames" "string_array" ["AU12AU25"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "466c66dc-6d64-3779-a730-6ecb0a667ec5"
+				"name" "string" "AU6Z"
+				"rawControlNames" "string_array" ["AU6Z"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "f41352d9-1c63-3c30-a35d-bca042265a75"
+				"name" "string" "AU18Z"
+				"rawControlNames" "string_array" ["AU18Z"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "db0ffeab-a2c7-39a0-ab36-39a2b126b6f9"
+				"name" "string" "AU22Z"
+				"rawControlNames" "string_array" ["AU22Z"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "716c9e78-774a-3dfd-9a11-85b3178b3c7d"
+				"name" "string" "AU13"
+				"rawControlNames" "string_array" ["AU13"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "9073da24-e9f5-35e6-94fa-75771b096e66"
+				"name" "string" "AD96L"
+				"rawControlNames" "string_array" ["AD96L"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "06afbec7-cf34-315d-940c-030733069924"
+				"name" "string" "AD96R"
+				"rawControlNames" "string_array" ["AD96R"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["-1.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "43feddf8-24da-3f51-94ef-eec9b96e7de7"
+				"name" "string" "Basis"
+				"rawControlNames" "string_array" ["Basis"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			}
+		]
+		"controlValues" "vector3_array" ["0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5"]
+		"controlValuesLagged" "vector3_array" ["0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5"]
+		"usesLaggedValues" "bool" "0"
+		"dominators" "element_array" [ ]
+		"targets" "element_array" [ ]
+	}
+}
+
